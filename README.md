@@ -1,0 +1,2 @@
+# An-Aspen-Plus-project-on-CO2-capture-from-flue-gas-by-MDEA-solvent
+Simulated a 100 tonne/hr flue gas stream in Aspen Plus using MDEA solvent with the ELECNRTL property method to design an absorber–stripper system for CO2 capture. The flowsheet was created with solvent circulation, regeneration, and makeup sreams. The sensitivity analysis was carried out for stripper stages and lean solvent rate 
